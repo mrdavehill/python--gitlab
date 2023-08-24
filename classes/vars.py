@@ -1,0 +1,7 @@
+gitlab = "https://gitlab.example.com/api/v4/projects"
+branch = "pytest-branch"
+createDev = "yes"
+createTest = "yes"
+createLive = "yes"
+projectName = "dummy"
+token = ""
